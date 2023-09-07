@@ -1,4 +1,4 @@
-<h2 align="center">archy - zip archive compressor/extraction c++</h2>
+<h2 align="center">archy - zip archive compressor/extraction using c++</h2>
 
 ###
 
