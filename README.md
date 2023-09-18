@@ -10,7 +10,7 @@
 
 ## project structure:
 
-```
+```rust
 ├── LICENSE
 ├── archy.cpp
 └── README.md
@@ -18,7 +18,7 @@
 
 ## installation
 
-```
+```shell
 git clone https://github.com/kenjitheman/archy
 ```
 
@@ -26,20 +26,20 @@ git clone https://github.com/kenjitheman/archy
 
 - **modify main function to use this tool**
 
-```
+```c++
 std::vector<std::string> filesToCompress = {"your_file_path.txt", "your_file_path_1.txt"}; // can be any number of files
 std::string zipFilename = "your_zip_archive.zip";
 ```
 
 - compile c++
 
-```
+```shell
 g++ archy.cpp -o archy
 ```
 
 - run:
 
-```
+```shell
 ./archy
 ```
 
