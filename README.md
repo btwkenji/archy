@@ -1,4 +1,4 @@
-## archy - zip archive compressor/extraction using c++
+## Archy - zip archive compressor/extraction using c++
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-## project structure:
+## Project structure:
 
 ```rust
 ├── LICENSE
@@ -16,37 +16,37 @@
 └── README.md
 ```
 
-## installation
+## Installation
 
 ```shell
 git clone https://github.com/kenjitheman/archy
 ```
 
-## usage
+## Usage
 
-- **modify main function to use this tool**
+- **Modify main function to use this tool**
 
 ```c++
 std::vector<std::string> filesToCompress = {"your_file_path.txt", "your_file_path_1.txt"}; // can be any number of files
 std::string zipFilename = "your_zip_archive.zip";
 ```
 
-- compile c++
+- Compile c++
 
 ```shell
 g++ archy.cpp -o archy
 ```
 
-- run:
+- Run:
 
 ```shell
 ./archy
 ```
 
-## contributing
+## Contributing
 
-- pull requests are welcome, for major changes, please open an issue first to
-  discuss what you would like to change
+- Pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change.
 
 ## license
 
