@@ -18,7 +18,7 @@
 
 ## Installation
 
-```shell
+```sh
 git clone https://github.com/kenjitheman/archy
 ```
 
@@ -33,13 +33,13 @@ std::string zipFilename = "your_zip_archive.zip";
 
 - Compile c++
 
-```shell
+```sh
 g++ archy.cpp -o archy
 ```
 
 - Run:
 
-```shell
+```sh
 ./archy
 ```
 
