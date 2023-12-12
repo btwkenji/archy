@@ -11,6 +11,8 @@
 ## Project structure:
 
 ```rust
+archy
+│
 ├── LICENSE
 ├── archy.cpp
 └── README.md
