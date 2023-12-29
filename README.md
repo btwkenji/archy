@@ -52,4 +52,4 @@ g++ archy.cpp -o archy
 
 ## license
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](./LICENSE)
